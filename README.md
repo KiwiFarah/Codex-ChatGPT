@@ -17,18 +17,18 @@ Before you can use Codex, you need to have the following installed on your machi
 - Node.js
 - OpenAI API key
 
-###Installation
--Clone the repository to your local machine.
+### Installation
+- Clone the repository to your local machine.
 
--Install the required dependencies by running npm install.
+- Install the required dependencies by running npm install.
 
--Set up your OpenAI API key by creating a .env file in the root directory and adding the following line:
+- Set up your OpenAI API key by creating a .env file in the root directory and adding the following line:
 
 `API_KEY=your_api_key_here`
 
--Start the development server by running npm run dev.
+- Start the development server by running npm run dev.
 
-Contributions
+### Contributions
 If you would like to contribute to Codex, please feel free to submit a pull request. Welcome all contributions, big and small!
 
 I hope that Codex will be a valuable tool for all developers out there. Happy coding!
